@@ -4,3 +4,6 @@
 
 **What is Synapse C?**\
 Synapse C is a Roblox executor, which is written on Rust and uses Tauri.
+
+**Is it detected?**\
+All Roblox executors are detected, including Synapse C.

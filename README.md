@@ -1,5 +1,5 @@
 # Synapse C - Make Roblox your own.
-[![Operating System](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Operating System](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://microsoft.com/windows)
 [![Programming Language](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 **What is Synapse C?**\

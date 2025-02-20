@@ -3,7 +3,16 @@
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)]([https://csharp.com](https://learn.microsoft.com/en-us/dotnet/csharp/))
 
 **What is Synapse C?**\
-Synapse C is a Roblox executor, which is written on C# and uses Windows Forms.
+Synapse C is a Roblox executor, which is written entirely on C# and C++.
 
 **Is it detected?**\
 All Roblox executors are detected, including Synapse C.
+
+**Is it free?**\
+Of course!
+
+**How to use it?**\
+1. Download [Bloxstrap](https://bloxstraplabs.com)
+2. Open Bloxstrap (Roblox Client)
+3. Attach Synapse C
+4. Join any game and enjoy

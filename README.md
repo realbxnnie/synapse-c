@@ -11,8 +11,10 @@ All Roblox executors are detected, including Synapse C.
 **Is it free?**\
 Of course!
 
-**How to use it?**\
+**How to use it?**
 1. Download [Bloxstrap](https://bloxstraplabs.com)
 2. Open Bloxstrap (Roblox Client)
 3. Attach Synapse C
 4. Join any game and enjoy
+
+[Also join our Discord server!](https://bit.ly/synapse-c)

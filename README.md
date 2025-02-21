@@ -2,6 +2,11 @@
 [![Operating System](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://microsoft.com/windows)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)]([https://csharp.com](https://learn.microsoft.com/en-us/dotnet/csharp/))
 
+
+> [!CAUTION]
+> The only official link to download Synapse C is this repository or https://realbxnnie.github.io/synapse-c. Other repositories/websites are not controlled by us.
+
+
 **What is Synapse C?**\
 Synapse C is a Roblox executor, which is written entirely on C# and C++.
 

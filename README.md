@@ -4,7 +4,7 @@
 
 
 > [!CAUTION]
-> The only official link to download Synapse C is this repository or https://realbxnnie.github.io/synapse-c. Other repositories/websites are not controlled by us.
+> The only official link to download Synapse C is this repository, https://realbxnnie.github.io/synapse-c or our Discord server. Other repositories/websites are not controlled by us.
 
 
 **What is Synapse C?**\

@@ -1,4 +1,7 @@
 # Synapse C - Make Roblox your own.
+[![Logo](https://raw.githubusercontent.com/realbxnnie/synapse-c/refs/heads/web/synclogo.png)](#)
+
+
 [![Operating System](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://microsoft.com/windows)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)]([https://csharp.com](https://learn.microsoft.com/en-us/dotnet/csharp/))
 

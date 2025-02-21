@@ -1,5 +1,6 @@
-# Synapse C - Make Roblox your own.
 [![Logo](https://raw.githubusercontent.com/realbxnnie/synapse-c/refs/heads/web/synclogo.png)](#)
+
+Make Roblox your own.
 
 
 [![Operating System](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://microsoft.com/windows)
